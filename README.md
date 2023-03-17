@@ -1,3 +1,3 @@
 # Challenge-Data-Incubator
 
-This repositories contains the Data file and Data Answer to the challenges
+This repository contains the Data file and Data Answers to the challenges
